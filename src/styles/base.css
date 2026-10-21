@@ -708,16 +708,16 @@ textarea.w-input {
 }
 @font-face {
   font-family: Satoshi;
-  src: url("/assets/3f10b1a8cb-69832c981709acfb3d0d447c_Satoshi-Regular.otf")
-    format("opentype");
+  src: url("https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582152/wazemtech/monivo/3f10b1a8cb-69832c981709acfb3d0d447c_Satoshi-Regular-8f6c136f5ccb.woff2")
+    format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: Satoshi;
-  src: url("/assets/5c81e44816-69832c9899696445726b3f4a_Satoshi-Medium.otf")
-    format("opentype");
+  src: url("https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582151/wazemtech/monivo/5c81e44816-69832c9899696445726b3f4a_Satoshi-Medium-2df651b46a94.woff2")
+    format("woff2");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -939,54 +939,54 @@ img {
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: url(/assets/7e0a56187e-jizHRFtNs2ka5fXjeivQ4LroWlx-6zATiw.ttf)
-    format("truetype");
+  src: url(https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582152/wazemtech/monivo/7e0a56187e-jizHRFtNs2ka5fXjeivQ4LroWlx-6zATiw-d4e547460972.woff2)
+    format("woff2");
 }
 @font-face {
   font-family: "Instrument Serif";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(/assets/c1e7453ea2-jizBRFtNs2ka5fXjeivQ4LroWlx-2zI.ttf)
-    format("truetype");
+  src: url(https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582152/wazemtech/monivo/c1e7453ea2-jizBRFtNs2ka5fXjeivQ4LroWlx-2zI-bc7e9fb97a50.woff2)
+    format("woff2");
 }
 @font-face {
   font-family: "Inter Tight";
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url(/assets/1ec94267de-NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjUQ-qXA.ttf)
-    format("truetype");
+  src: url(https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582152/wazemtech/monivo/1ec94267de-NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjUQ-qXA-2f6cf2f74fbb.woff2)
+    format("woff2");
 }
 @font-face {
   font-family: "Inter Tight";
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(/assets/42aaaf7a68-NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-qXA.ttf)
-    format("truetype");
+  src: url(https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582153/wazemtech/monivo/42aaaf7a68-NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-qXA-13268c7d98ae.woff2)
+    format("woff2");
 }
 @font-face {
   font-family: "Inter Tight";
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url(/assets/ba08b16a00-NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-qXA.ttf)
-    format("truetype");
+  src: url(https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582153/wazemtech/monivo/ba08b16a00-NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-qXA-216ce351956f.woff2)
+    format("woff2");
 }
 @font-face {
   font-family: "Inter Tight";
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url(/assets/722ff42d00-NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiqXA.ttf)
-    format("truetype");
+  src: url(https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582153/wazemtech/monivo/722ff42d00-NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiqXA-aec85723ca94.woff2)
+    format("woff2");
 }
 @font-face {
   font-family: "Inter Tight";
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(/assets/3ff89d14ef-NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj6AiqXA.ttf)
-    format("truetype");
+  src: url(https://res.cloudinary.com/dj4rfocct/raw/upload/v1792582153/wazemtech/monivo/3ff89d14ef-NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj6AiqXA-fbe1cb8cfa2b.woff2)
+    format("woff2");
 }

@@ -639,7 +639,7 @@
 }
 .rt-pricing-cards-grid {
   background-color: var(--dark-navy-blue);
-  background-image: url("/assets/2d7829161c-69897e5185127d3eab1c4a11_7e94bae7450b13a6a751a7e05c5ba58c_avelety-pricing-one-card-background-overlay.webp");
+  background-image: url("https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792582119/wazemtech/monivo/b13a6a751a7e05c5ba58c_avelety-pricing-one-card-background-overlay-3ae71488a7fc.webp");
   background-position: -182% 41%;
   background-repeat: no-repeat;
   background-size: 81.6rem 58.3rem;
@@ -935,7 +935,7 @@
   border-radius: 0.625rem;
 }
 .rt-section-background {
-  background-image: url("/assets/8c903fa230-698adae09d42219079eea615_avelety-feature-hero-background-gredient.webp");
+  background-image: url("https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792582120/wazemtech/monivo/698adae09d42219079eea615_avelety-feature-hero-background-gredient-0c717a44f40f.webp");
   background-position: 50% 13%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -1112,7 +1112,7 @@
 }
 .rt-automation-v1-dashboard-bar {
   background-color: var(--light-sky-blue);
-  background-image: url("/assets/68dcb65c35-698b0ed1821e0b9d2fdb0c2f_avelety-feature-automation-dashboard-bar-background-line.svg");
+  background-image: url("https://res.cloudinary.com/dj4rfocct/image/upload/v1792582118/wazemtech/monivo/2fdb0c2f_avelety-feature-automation-dashboard-bar-background-line-f8ebf05023bf.svg");
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2010,7 +2010,7 @@
 .rt-service-section-gredient-v1 {
   background-image:
     radial-gradient(circle at 50% 47%, #0e1d4b, #0e1d4b00 25%),
-    url("/assets/4afda548c8-698dc82af9711c4f677da533_avelety-service-section-background-v2.webp");
+    url("https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792582120/wazemtech/monivo/c8-698dc82af9711c4f677da533_avelety-service-section-background-v2-1b8d2feb9d58.webp");
   background-position:
     0 0,
     100% -1%;
@@ -2165,8 +2165,8 @@
   padding-top: var(--_gap---section-gaps--section-gap-large);
   background-color: var(--midnight-navy);
   background-image:
-    url("/assets/d1d45518a1-6994686324c6c493ac8bfb6c_avelety-about-hero-background-overlay-one.webp"),
-    url("/assets/348e258810-69946863407b4a05384a1871_avelety-about-hero-background-overlay-two.webp");
+    url("https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792582124/wazemtech/monivo/994686324c6c493ac8bfb6c_avelety-about-hero-background-overlay-one-cd87eed2a5a9.webp"),
+    url("https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792582123/wazemtech/monivo/9946863407b4a05384a1871_avelety-about-hero-background-overlay-two-d56d342fb43b.webp");
   background-position:
     100% 0,
     0%;
@@ -2443,7 +2443,7 @@
   align-items: center;
 }
 .rt-team-work-v1-image-wrap {
-  background-image: url("/assets/918c082e20-6992bfbf696fa750076a499c_avelety-about-teamwork-image-background-image.webp");
+  background-image: url("https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792582123/wazemtech/monivo/fbf696fa750076a499c_avelety-about-teamwork-image-background-image-5b0fe87f3b02.webp");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2524,7 +2524,7 @@
       #e9e9eb00 93%,
       var(--midnight-navy)
     ),
-    url("/assets/9669806015-6992ef0be6184bf87d2a7fd6_9bc9be15377b58fc701976b590033d2d_avelety-about-unique-solution-background-overlay.webp");
+    url("https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792582130/wazemtech/monivo/701976b590033d2d_avelety-about-unique-solution-background-overlay-eb94f8bffd87.webp");
   background-position:
     0 0,
     50% 60%;
@@ -2689,7 +2689,7 @@
 }
 .rt-benefit-v2-sticky {
   padding-bottom: var(--_gap---section-gaps--section-gap-small);
-  background-image: url("/assets/c8ad5eda07-699310379c03b45556f74475_avelety-about-ai-benefits-background-overlay.webp");
+  background-image: url("https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792582125/wazemtech/monivo/10379c03b45556f74475_avelety-about-ai-benefits-background-overlay-a3bfa06e4b62.webp");
   background-position: 100%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -2837,8 +2837,8 @@
 }
 .rt-service-section-background-v2 {
   background-image:
-    url("/assets/fc4d905051-6996f177064b64a1c3596153_avelety-service-background-two.webp"),
-    url("/assets/9ce8696513-6996e819b57291cc58a43a5a_5d7e550dc90e35725884ce268c1676e2_avelety-service-process-background.webp");
+    url("https://res.cloudinary.com/dj4rfocct/image/upload/v1792582126/wazemtech/monivo/c4d905051-6996f177064b64a1c3596153_avelety-service-background-two-ff4388020567.webp"),
+    url("https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792582115/wazemtech/monivo/7e550dc90e35725884ce268c1676e2_avelety-service-process-background-3c2b585d434c.webp");
   background-position:
     100%,
     50% 0;
@@ -2997,7 +2997,7 @@
   padding-top: var(--_gap---section-gaps--section-gap-large);
   padding-bottom: var(--_gap---section-gaps--section-gap-main);
   background-color: var(--midnight-navy);
-  background-image: url("/assets/b2a1d9cc5d-699d88fd72142f665f4fc355_avelety-home-one-hero-background-overlay.avif");
+  background-image: url("https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792582119/wazemtech/monivo/699d88fd72142f665f4fc355_avelety-home-one-hero-background-overlay-c1d7c24c274d.avif");
   background-position: 50% 0;
   background-repeat: no-repeat;
   background-size: contain;
@@ -3323,7 +3323,7 @@
 }
 .rt-benefit-v1-card-v2-bar.rt-two {
   background-color: var(--sky-blue);
-  background-image: url("/assets/5337d27c8c-69a1204108cac8b833b42298_avelety-home-one-benefit-bar-line-background.svg");
+  background-image: url("https://res.cloudinary.com/dj4rfocct/image/upload/v1792582128/wazemtech/monivo/204108cac8b833b42298_avelety-home-one-benefit-bar-line-background-c1e4a5323888.svg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3333,7 +3333,7 @@
   background-color: var(--royal-blue);
 }
 .rt-benefit-v1-card-v2-bar.rt-four {
-  background-image: url("/assets/5337d27c8c-69a1204108cac8b833b42298_avelety-home-one-benefit-bar-line-background.svg");
+  background-image: url("https://res.cloudinary.com/dj4rfocct/image/upload/v1792582128/wazemtech/monivo/204108cac8b833b42298_avelety-home-one-benefit-bar-line-background-c1e4a5323888.svg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3445,8 +3445,8 @@
 }
 .rt-section-background-v5 {
   background-image:
-    url("/assets/cebbb4289c-69a2ebb4ed2e5be6d1430c5d_Group-2085663061.png"),
-    url("/assets/3271a0c8b3-69a2ea0fc7d8e5576f814024_Group-2085663175.webp");
+    url("https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792582128/wazemtech/monivo/cebbb4289c-69a2ebb4ed2e5be6d1430c5d_Group-2085663061-c874fa5c3dcb.png"),
+    url("https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792582131/wazemtech/monivo/3271a0c8b3-69a2ea0fc7d8e5576f814024_Group-2085663175-d33873d1736c.webp");
   background-position:
     50% 100%,
     0 -6%;

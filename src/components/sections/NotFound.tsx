@@ -1,4 +1,5 @@
 "use client";
+import DeferredVideo from "@/components/ui/DeferredVideo";
 import { useRef } from "react";
 import Image from "next/image";
 import { BackgroundVideo } from "@/components/ui/Interactive";
@@ -55,19 +56,19 @@ export default function NotFound() {
       </div>
       <div className="div-block-8">
         <BackgroundVideo
-          data-poster-url="/assets/6faa0b79c5-6982f48010156d8807407e6e-69aa8da48e82a66c95187acf_5921369-hd_1920_1080_30fps_poster.0000000.jpg"
-          data-video-urls="/assets/46f8a354ca-6982f48010156d8807407e6e-69aa8da48e82a66c95187acf_5921369-hd_1920_1080_30fps_mp4.mp4,/assets/d0125fc61b-6982f48010156d8807407e6e-69aa8da48e82a66c95187acf_5921369-hd_1920_1080_30fps_webm.webm"
+          data-poster-url="https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581978/wazemtech/monivo/9aa8da48e82a66c95187acf_5921369-hd_1920_1080_30fps_poster-0000000-b1146385dd67.jpg"
+          data-video-urls="https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581999/wazemtech/monivo/807407e6e-69aa8da48e82a66c95187acf_5921369-hd_1920_1080_30fps_mp4-04031d454dc2.mp4,https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792582020/wazemtech/monivo/07407e6e-69aa8da48e82a66c95187acf_5921369-hd_1920_1080_30fps_webm-6220fc2364ab.webm"
           data-autoplay="true"
           data-loop="true"
           className="background-video w-background-video w-background-video-atom"
         >
-          <video
+          <DeferredVideo
             id="9ecc25c5-75f3-947d-9b77-661ac813c291-video"
             autoPlay={true}
             loop={true}
             style={{
               backgroundImage:
-                'url("/assets/6faa0b79c5-6982f48010156d8807407e6e-69aa8da48e82a66c95187acf_5921369-hd_1920_1080_30fps_poster.0000000.jpg")',
+                'url("https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581978/wazemtech/monivo/9aa8da48e82a66c95187acf_5921369-hd_1920_1080_30fps_poster-0000000-b1146385dd67.jpg")',
             }}
             muted={true}
             playsInline={true}
@@ -75,7 +76,7 @@ export default function NotFound() {
           >
             <source src={content.mp4Image} />
             <source src={content.webmImage} />
-          </video>
+          </DeferredVideo>
           <div aria-live="polite">
             <button
               type="button"

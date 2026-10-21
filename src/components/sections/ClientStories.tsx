@@ -1,4 +1,5 @@
 "use client";
+import DeferredVideo from "@/components/ui/DeferredVideo";
 import { useRef } from "react";
 import Image from "next/image";
 import { BackgroundVideo } from "@/components/ui/Interactive";
@@ -46,20 +47,20 @@ export default function ClientStories() {
             <div className="w-layout-hflex rt-testimonial-v2-video-card rt-border-radius-tiny-15">
               <div className="rt-testimonial-v2-card-video-wrap rt-border-radius-tiny-15 rt-overflow-hidden">
                 <BackgroundVideo
-                  data-poster-url="/assets/389caea18c-6982f48010156d8807407e6e-699e906b978bd27b7f86f6c9_608498_Lockdown_Coronavirus_1920x1080--1-_poster.0000000.jpg"
-                  data-video-urls="/assets/036bbc66f8-6982f48010156d8807407e6e-699e906b978bd27b7f86f6c9_608498_Lockdown_Coronavirus_1920x1080--1-_mp4.mp4,/assets/f4dd7d58ee-6982f48010156d8807407e6e-699e906b978bd27b7f86f6c9_608498_Lockdown_Coronavirus_1920x1080--1-_webm.webm"
+                  data-poster-url="https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581975/wazemtech/monivo/7f86f6c9_608498_Lockdown_Coronavirus_1920x1080--1-_poster-0000000-93071eecf363.jpg"
+                  data-video-urls="https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792581994/wazemtech/monivo/06b978bd27b7f86f6c9_608498_Lockdown_Coronavirus_1920x1080--1-_mp4-7426e2958290.mp4,https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792582003/wazemtech/monivo/6b978bd27b7f86f6c9_608498_Lockdown_Coronavirus_1920x1080--1-_webm-14811cc76e7b.webm"
                   data-autoplay="true"
                   data-loop="true"
                   className="rt-testimonial-v2-card-video w-background-video w-background-video-atom"
                   data-motion="clientStories-testimonialV2CardVideo"
                 >
-                  <video
+                  <DeferredVideo
                     id="4fcdb0f9-1130-2b08-b18e-099b3dd60e5e-video"
                     autoPlay={true}
                     loop={true}
                     style={{
                       backgroundImage:
-                        'url("/assets/389caea18c-6982f48010156d8807407e6e-699e906b978bd27b7f86f6c9_608498_Lockdown_Coronavirus_1920x1080--1-_poster.0000000.jpg")',
+                        'url("https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581975/wazemtech/monivo/7f86f6c9_608498_Lockdown_Coronavirus_1920x1080--1-_poster-0000000-93071eecf363.jpg")',
                     }}
                     muted={true}
                     playsInline={true}
@@ -67,7 +68,7 @@ export default function ClientStories() {
                   >
                     <source src={content.mp4Image} />
                     <source src={content.webmImage} />
-                  </video>
+                  </DeferredVideo>
                   <div className="w-layout-hflex rt-testimonial-v2-video-icon">
                     <div aria-live="polite">
                       <button
@@ -129,20 +130,20 @@ export default function ClientStories() {
             <div className="w-layout-hflex rt-testimonial-v2-video-card rt-border-radius-tiny-15">
               <div className="rt-testimonial-v2-card-video-wrap rt-border-radius-tiny-15 rt-overflow-hidden">
                 <BackgroundVideo
-                  data-poster-url="/assets/0ce082c505-6982f48010156d8807407e6e-699e92ef2cad166851f5144e_41946ef4-1ef5-48af-b701-3234eb7ab74b_poster.0000000.jpg"
-                  data-video-urls="/assets/81ebde1181-6982f48010156d8807407e6e-699e92ef2cad166851f5144e_41946ef4-1ef5-48af-b701-3234eb7ab74b_mp4.mp4,/assets/8517eab0d7-6982f48010156d8807407e6e-699e92ef2cad166851f5144e_41946ef4-1ef5-48af-b701-3234eb7ab74b_webm.webm"
+                  data-poster-url="https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581975/wazemtech/monivo/d166851f5144e_41946ef4-1ef5-48af-b701-3234eb7ab74b_poster-0000000-d637e6cb75ac.jpg"
+                  data-video-urls="https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792582015/wazemtech/monivo/699e92ef2cad166851f5144e_41946ef4-1ef5-48af-b701-3234eb7ab74b_mp4-4c285a9d7e61.mp4,https://res.cloudinary.com/dj4rfocct/video/upload/q_auto,c_limit,w_1280/v1792582024/wazemtech/monivo/99e92ef2cad166851f5144e_41946ef4-1ef5-48af-b701-3234eb7ab74b_webm-14cd3a20a03f.webm"
                   data-autoplay="true"
                   data-loop="true"
                   className="rt-testimonial-v2-card-video w-background-video w-background-video-atom"
                   data-motion="clientStories-testimonialV2CardVideo-2"
                 >
-                  <video
+                  <DeferredVideo
                     id="4fcdb0f9-1130-2b08-b18e-099b3dd60e74-video"
                     autoPlay={true}
                     loop={true}
                     style={{
                       backgroundImage:
-                        'url("/assets/0ce082c505-6982f48010156d8807407e6e-699e92ef2cad166851f5144e_41946ef4-1ef5-48af-b701-3234eb7ab74b_poster.0000000.jpg")',
+                        'url("https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792581975/wazemtech/monivo/d166851f5144e_41946ef4-1ef5-48af-b701-3234eb7ab74b_poster-0000000-d637e6cb75ac.jpg")',
                     }}
                     muted={true}
                     playsInline={true}
@@ -150,7 +151,7 @@ export default function ClientStories() {
                   >
                     <source src={content.mp4Image2} />
                     <source src={content.webmImage2} />
-                  </video>
+                  </DeferredVideo>
                   <div className="w-layout-hflex rt-testimonial-v2-video-icon">
                     <div aria-live="polite">
                       <button

@@ -1335,7 +1335,7 @@
 
   .rt-service-section-gredient-v1 {
     background-image:
-      url("/assets/9ce8696513-6996e819b57291cc58a43a5a_5d7e550dc90e35725884ce268c1676e2_avelety-service-process-background.webp"),
+      url("https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792582115/wazemtech/monivo/7e550dc90e35725884ce268c1676e2_avelety-service-process-background-3c2b585d434c.webp"),
       radial-gradient(circle at 50% 61%, #0e1d4b, #0e1d4b00 28%);
     background-position:
       50% 69%,
@@ -3481,7 +3481,7 @@
   }
 
   .rt-hero-v1 {
-    background-image: url("/assets/b2a1d9cc5d-699d88fd72142f665f4fc355_avelety-home-one-hero-background-overlay.avif");
+    background-image: url("https://res.cloudinary.com/dj4rfocct/image/upload/f_auto,q_auto,c_limit,w_1920/v1792582119/wazemtech/monivo/699d88fd72142f665f4fc355_avelety-home-one-hero-background-overlay-c1d7c24c274d.avif");
     background-repeat: no-repeat;
     background-size: cover;
   }
