@@ -1,0 +1,25 @@
+.monivo-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  color: #fff;
+  white-space: nowrap;
+  min-height: 36px;
+}
+.monivo-brand__mark {
+  display: block;
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+}
+.monivo-brand__name {
+  font-family: var(--_typography---font-family--heading-font);
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1;
+}
+.avelety-site ::selection { background: #f1b99f; color: #1a1d20; }
+@media (max-width: 479px) {
+  .monivo-brand__name { font-size: 25px; }
+  .monivo-brand__mark { width: 32px; height: 32px; }
+}
